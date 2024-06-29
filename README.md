@@ -1,4 +1,4 @@
-# Business Insights 360 atliq
+# Business Insights 360 
 
 ## Project Overview
 
