@@ -180,36 +180,36 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
+![Overall Report.gif](https://github.com/FreddyMartinezAnalitics/Business-Insights-360/blob/main/images/report%20.gif)
 
 ## Info Page
 
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+![Info.gif](https://github.com/FreddyMartinezAnalitics/Business-Insights-360/blob/main/images/info%20page.gif)
 
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finace.gif](https://github.com/FreddyMartinezAnalitics/Business-Insights-360/blob/main/images/finance%20page.gif)
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales.gif](https://github.com/FreddyMartinezAnalitics/Business-Insights-360/blob/main/images/sales%20page.gif)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing.gif](https://github.com/FreddyMartinezAnalitics/Business-Insights-360/blob/main/images/marketing%20page.gif)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply chain.gif](https://github.com/FreddyMartinezAnalitics/Business-Insights-360/blob/main/images/supply%20chain%20view.gif)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive.gif](https://github.com/FreddyMartinezAnalitics/Business-Insights-360/blob/main/images/executive%20page.gif)
 
-## Products
+## Support
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
+![Products](https://github.com/FreddyMartinezAnalitics/Business-Insights-360/blob/main/images/Support%20page.gif)
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+you can find the full report file here : [Report](https://github.com/FreddyMartinezAnalitics/Business-Insights-360/blob/main/Report%20link!)
 
 
 ## Project Outcome
